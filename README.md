@@ -15,6 +15,6 @@ Recently, A3WD has been attracting many people's attention, so this package is a
 - pics folder contains coverted .svg format figures from those .eps format ones located in A3WDJ/figs.
 
 Some experiment results are shown in following figures.
-[Experiment 1](./pics/EX1.svg)
-[Experiment 2](./pics/EX2.svg)
-[Experiment 2m](./pics/EX2m.svg)
+![Experiment 1](./pics/EX1.svg)
+![Experiment 2](./pics/EX2.svg)
+![Experiment 2m](./pics/EX2m.svg)
